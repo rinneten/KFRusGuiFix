@@ -1,4 +1,5 @@
 # KFRus
 Исправленные .rus/.int файлы русского клиента Killing Floor v1065
 # Установка
-Скачайте архив с исправленными файлами и замените ими оригинальные в папке "\Steam\steamapps\common\Killing Floor\System"
+1. Скачайте папку System в виде .zip файла
+2. Извлеките архив в папку System вашего клиента "..\Steam\steamapps\common\KillingFloor\System\"
